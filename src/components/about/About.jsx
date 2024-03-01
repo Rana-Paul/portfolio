@@ -28,7 +28,7 @@ const About = () => {
 
             <article className="about_card">
               <FaFileContract className="about_icon" />
-              <h5>Contribution</h5>
+              <h5>Contributions</h5>
               <small>20+ Contribution </small>
             </article>
 
