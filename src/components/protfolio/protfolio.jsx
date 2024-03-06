@@ -7,15 +7,16 @@ import DataMask from "../../img/Datamask.png";
 import Twitter from "../../img/twt.png";
 import Digital from "../../img/digital.png";
 import Video from "../../img/video.png";
+import Flint from "../../img/flint.png"
 
 const data = [
   {
     id: 1,
-    image: Twitter,
-    title: "Twitter Clone",
-    desc: `A Full-Stack Twitter clone Built with Next.js 13 App Router, GraphQL, TypeScript, Tailwind, and PostgreSQL. Implemented features and functionality to mimic the Twitter platform.`,
-    github: "https://github.com/Rana-Paul/Twitter-Clone",
-    demo: "https://twitter-frontend-prod.vercel.app/",
+    image: Flint,
+    title: "Flint with AI ChatBot",
+    desc: `Redesign of a website [flintk12.com] using NextJS, integrated with an OpenAI chatbot (GPT 3.5) and added rate limiter using Redis.`,
+    github: "https://github.com/Rana-Paul/Flint",
+    demo: "https://flint-eta.vercel.app",
   },
   {
     id: 2,
