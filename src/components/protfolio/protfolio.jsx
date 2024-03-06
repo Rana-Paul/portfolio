@@ -20,6 +20,14 @@ const data = [
   },
   {
     id: 2,
+    image: Twitter,
+    title: "Twitter Clone,
+    desc: `A Full-Stack Twitter clone Built with Next.js 13, GraphQL, TypeScript, Redis, Tailwind, and PostgreSQL. Implemented features and functionality to mimic the Twitter platform.`,
+    github: "https://github.com/Rana-Paul/Twitter-Clone",
+    demo: "https://twitter-frontend-three.vercel.app/",
+  },
+  {
+    id: 3,
     image: Digital,
     title: "Digital Market",
     desc: `A Modern Full Stack Digital Market for Digital Products. Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind`,
@@ -27,7 +35,7 @@ const data = [
     demo: "https://digital-market-production-4041.up.railway.app/",
   },
   {
-    id: 3,
+    id: 4,
     image: Video,
     title: "Video Transcoder",
     desc: `This is a Video Transcoder app, Here you can Transcode your video into different format. Built with the ReactJS, Nodejs, Express ,FFMPEG`,
@@ -36,7 +44,7 @@ const data = [
     video: "https://www.youtube.com/watch?v=HNfJKOqEgrg&t=149s",
   },
   {
-    id: 4,
+    id: 5,
     image: dex_defi,
     title: "dEX-DeFi Project",
     desc: `A Web3 project where you can buy and sell Tokens, Built with the ReactJS, Solidity, Hardhat, Mocha and Chai`,
@@ -45,7 +53,7 @@ const data = [
     video: "https://youtu.be/9cJbci3XzuM",
   },
   {
-    id: 5,
+    id: 6,
     image: NFT,
     title: "NFT Marketplace",
     github: "https://github.com/Rana-Paul/NFT-Marketplace",
@@ -54,7 +62,7 @@ const data = [
     video: "https://youtu.be/9cJbci3XzuM",
   },
   {
-    id: 6,
+    id: 7,
     image: Voting,
     title: "Voting dApp",
     github: "https://github.com/Rana-Paul/Voting-Dapp-Smart-Contract",
@@ -64,7 +72,7 @@ const data = [
 
   },
   {
-    id: 7,
+    id: 8,
     image: DataMask,
     title: "DataMask",
     github: "https://github.com/Rana-Paul/DataMask",
