@@ -21,7 +21,7 @@ const data = [
   {
     id: 2,
     image: Twitter,
-    title: "Twitter Clone,
+    title: "Twitter Clone",
     desc: `A Full-Stack Twitter clone Built with Next.js 13, GraphQL, TypeScript, Redis, Tailwind, and PostgreSQL. Implemented features and functionality to mimic the Twitter platform.`,
     github: "https://github.com/Rana-Paul/Twitter-Clone",
     demo: "https://twitter-frontend-three.vercel.app/",
